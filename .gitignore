@@ -1,0 +1,13 @@
+*.class
+
+# Eclipse IDE files
+.project
+.classpath
+.settings/
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+
+*.log
