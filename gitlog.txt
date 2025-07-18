@@ -1,0 +1,92 @@
+commit bf447b9fba4b7c7c389ca0cbdb6cceccfcb44a18
+Author: Liam <lobyrne05@gmail.com>
+Date:   Fri Jul 18 14:37:47 2025 -0400
+
+    Update .project
+
+commit 6778ca157136ea682d440e2cb54c4fa547ef6842
+Author: Liam <lobyrne05@gmail.com>
+Date:   Fri Jul 18 14:37:36 2025 -0400
+
+    Mouth height 10->12
+
+commit 662bef678dcce4948289cd858ced77f183e5a91d
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Fri Jul 18 12:28:26 2025 -0600
+
+    Changed text from meow to MEOW
+
+commit bd4678f09add444a0af9d78c6aa36ce50b5f04e6
+Author: Liam <lobyrne05@gmail.com>
+Date:   Fri Jul 18 13:44:47 2025 -0400
+
+    change mouth color to pink
+
+commit b9d9fdc07e5ef07c3a1e1a48cb0794a99ad6729a
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Fri Jul 18 11:26:20 2025 -0600
+
+    Changed eye color to blue
+
+commit f27baed91a8d3f10e8bdc3cfa61a95c9e18f51ee
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Fri Jul 18 11:25:31 2025 -0600
+
+    Remove bin/ files
+
+commit 846f80b37568ff849799307fc816801127eabaf7
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Fri Jul 18 11:23:16 2025 -0600
+
+    Changed cat eye color to blue
+
+commit b674ed114873f1c6dc1eed872b481c67a72f1da5
+Merge: 0a516a2 36e7683
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Fri Jul 18 11:22:04 2025 -0600
+
+    Save local changes before pulling
+
+commit 0a516a2a6ec2f84264b7c49ecf19fde132482575
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Fri Jul 18 11:19:51 2025 -0600
+
+    Save local changes before pulling
+
+commit 36e7683f522070cdaa712d47c3707a702ab2d97c
+Merge: 48efd9a 4ae54a4
+Author: liamobyrne <lobyrne05@gmail.com>
+Date:   Fri Jul 18 12:47:55 2025 -0400
+
+    merge
+
+commit 48efd9a726d144c72c451323aaf28ccc040949e3
+Author: liamobyrne <lobyrne05@gmail.com>
+Date:   Fri Jul 18 12:20:42 2025 -0400
+
+    make cat head white
+
+commit 4ae54a4a7067d4a442463be7bb154cb0978a6881
+Author: Benny Hoang <benny_hoang@mines.edu>
+Date:   Thu Jul 17 19:16:17 2025 -0600
+
+    Changed head color from black to yellow
+
+commit f8aba810ded2c574d79b8e8a355c34663e4a5745
+Merge: 51828f5 022c7e2
+Author: liamobyrne <lobyrne05@gmail.com>
+Date:   Tue Jul 15 13:52:17 2025 -0400
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 51828f559abd111103e10653fabccae37e1fb282
+Author: liamobyrne <lobyrne05@gmail.com>
+Date:   Tue Jul 15 13:37:51 2025 -0400
+
+    Add .gitignore to ignore build artifacts and IDE files
+
+commit 022c7e295556c3f815512309046d1661bc1eec23
+Author: Liam <143021328+liamobyrne@users.noreply.github.com>
+Date:   Tue Jul 15 13:08:45 2025 -0400
+
+    Initial commit
